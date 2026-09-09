@@ -4,3 +4,6 @@ I will be building libraries from scratch to impliment ML models.
 I code these on my laptop
 
 I have coded a two layer neural network and a decision tree from scratch for a lecture I had to give, which I've placed in their correcponding folder
+You may find colab notebooks for the same at
+- Neural Network : https://colab.research.google.com/drive/15ujZytwSNZujYbm15XLaN5M7L6ywBT-u?usp=sharing
+- Decision Tree : https://colab.research.google.com/drive/1PwY1eeewQWHIsnSOwmwezBZTxBj7imAw?usp=sharing
